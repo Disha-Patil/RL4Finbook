@@ -1,4 +1,4 @@
-# Foundations of Reinforcement Learning
+# Foundations of Reinforcement Learning 
 
 An in-development book teaching foundational ideas in reinforcement learning with examples in finance.
 
